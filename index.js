@@ -1,1 +1,1 @@
-concole.erroe("HALP!")
+concole.Error("HALP!")
