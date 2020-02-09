@@ -1,6 +1,0 @@
-console.error("HALP!")
-console.error("YARP!")
-console.warn("YELLOW")
-console.error("RED!")
-console.log("TORPEDO!")
-console.warn("LOG!")
