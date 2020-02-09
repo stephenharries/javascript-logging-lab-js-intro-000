@@ -1,1 +1,1 @@
-concole.Error("HALP!")
+console.Error("HALP!")
