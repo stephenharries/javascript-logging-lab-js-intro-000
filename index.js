@@ -1,1 +1,1 @@
-console.Error("HALP!")
+console.error("HALP!")
